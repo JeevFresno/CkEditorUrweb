@@ -1,0 +1,4 @@
+library ../
+allow url *
+
+ckbasic
